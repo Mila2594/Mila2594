@@ -8,7 +8,7 @@
 
 -  🌱 Actualmente estoy aprendiendo Java, Kotlin y C#
 -  🔭 Trabajando en mi próxima Aplicación Android
--  📄 Conoce más sobre mí <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Currículum</a>
+-  📄 Conoce más sobre mí <a href="https://github.com/Mila2594/Mila2594/blob/main/curriculumv2.pdf" target="blank">Currículum</a>
 
 ##
 <h3><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px> Tecnologías y Lenguajes</h3>
