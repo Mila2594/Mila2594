@@ -35,14 +35,11 @@
       <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
       <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"></a>
       <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"></a>
-      <a href="https://www.postman.com/"><img src="https://camo.githubusercontent.com/424e41a030b5d7dc2761638a986a27ce062d320266a0ec7c5ca8e8f26ba99b53/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f73746d616e2d4646364333372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" alt="Postman"></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
       <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/bootstrap-%23430098.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
       <a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"></a>
       <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"></a>
-      <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"></a>
-      <a href="https://www.microsoft.com/es-es/microsoft-365"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"></a>
     </p>
   </div>
 </details>
