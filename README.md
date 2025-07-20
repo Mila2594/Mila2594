@@ -3,11 +3,11 @@
 ## <h3 align="left">🚀 Sobre mí</h3>
 <div style="text-align: justify;">
   <p>
-    Me estoy especializando en <strong>desarrollo de aplicaciones multiplataforma</strong>, mi enfoque es crear soluciones funcionales, innovadoras y atractivas. Estoy desarrollando mis habilidades en <strong>Java</strong>, <strong>Kotlin</strong> y <strong>C#</strong> con <strong>.NET</strong> y <strong>MAUI</strong>, motivada por aprender constantemente nuevas herramientas y colaborar en equipos multidisciplinarios. Mi formación en <strong>Diseño Industrial</strong> y mi experiencia en gestión de proyectos me permiten aportar una perspectiva creativa y estructurada a la creación de soluciones tecnológicas.</p>
+    <strong>Desarrolladora de aplicaciones multiplataforma</strong>, mi enfoque es crear soluciones funcionales, innovadoras y atractivas. He adquirido mis habilidades en <strong>Java</strong>, <strong>Kotlin</strong> y <strong>C#</strong> con <strong>.NET</strong> y <strong>MAUI</strong>, motivada por aprender constantemente nuevas herramientas y colaborar en equipos multidisciplinarios. Mi formación en <strong>Diseño Industrial</strong> y mi experiencia en gestión de proyectos me permiten aportar una perspectiva creativa y estructurada a la creación de soluciones tecnológicas.</p>
 </div>
 
--  🌱 Actualmente estoy aprendiendo Java, Kotlin y C#
--  🔭 Trabajando en mi próxima Aplicación Android
+-  🌱 Java, Kotlin y C#
+-  🔭 Junior IT
 -  📄 Conoce más sobre mí <a href="https://github.com/Mila2594/Mila2594/blob/main/CV2025.pdf" target="blank">Currículum</a>
 
 ##
