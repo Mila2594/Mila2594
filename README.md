@@ -49,4 +49,4 @@
 <a href="mailto:mila.canete.c@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/mila.canete.c@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/milaca%C3%B1ete/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/milacanete"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
